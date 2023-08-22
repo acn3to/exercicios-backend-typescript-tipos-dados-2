@@ -1,0 +1,30 @@
+[
+	{
+		"nome": "Neto",
+		"email": "neto@example.com",
+		"cpf": "123.456.789-00",
+		"profissao": "Desenvolvedor",
+		"endereco": { "cep": "40275020", "bairro": "Brotas", "cidade": "Salvador", "rua": "Tabajara" }
+	},
+	{
+		"nome": "Arnaldo",
+		"email": "neto@example.com",
+		"cpf": "123.456.789-00",
+		"profissao": "Professor",
+		"endereco": { "cep": "40275020", "bairro": "Brotas", "cidade": "Salvador", "rua": "Tabajara" }
+	},
+	{
+		"nome": "Costa",
+		"email": "neto@example.com",
+		"cpf": "123.456.789-00",
+		"profissao": "Aluno",
+		"endereco": { "cep": "40275020", "bairro": "Brotas", "cidade": "Salvador", "rua": "Tabajara" }
+	},
+	{
+		"nome": "Paula",
+		"email": "neto@example.com",
+		"cpf": "123.456.789-00",
+		"profissao": "Professor",
+		"endereco": { "cep": "40275020", "bairro": "Brotas", "cidade": "Salvador", "rua": "Tabajara" }
+	}
+]
